@@ -1,0 +1,61 @@
+.lastdiv1
+{
+    border: 2px solid black;
+    border-radius: 10px; 
+    width: 60%;
+    height: 21%;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+.ldiv1
+{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px; 
+    width: 30%;
+    margin-right: 2%;
+     float: right;
+     font-size:20px;
+     color: black;
+     height: 80%;
+    margin-top: 1.5%;
+
+}
+
+.ldiv2
+{
+    text-align: center;
+     border: 2px solid black;
+    border-radius: 10px; 
+    width: 30%;
+    height: 80%;
+    margin-top: 1.5%;
+    float: right;
+    margin-right: 3%;
+   font-size:20px;
+    color: black;
+
+}
+
+.ldiv3
+{
+    text-align: center;
+    float: right;
+    margin-top: 1.5%;
+     border: 2px solid black;
+    border-radius: 10px; 
+    width: 30%;
+    margin-right: 3%;
+    height: 80%;
+     font-size:20px;
+     color: black;
+}
+
+
+.text1
+{
+    color: #f26805;
+    margin-top: 12%;
+    font-size: 20px;
+    text-align: center;
+}
